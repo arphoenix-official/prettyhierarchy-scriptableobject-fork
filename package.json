@@ -1,0 +1,16 @@
+{
+  "name": "com.wearies.pretty-hierarchy",
+  "version": "1.0.0",
+  "displayName": "Pretty Hierarchy",
+  "description": "Color your hierarchy objects in Unity!",
+  "unity": "2019.3",
+  "keywords": [
+    "hierarchy",
+    "nceegee",
+    "klausbdl"
+  ],
+  "author": {
+    "name": "We Aries Group Limited",
+    "url": "https://arphoenix.com"
+  }
+}
